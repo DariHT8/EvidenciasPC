@@ -1,4 +1,4 @@
-# Potafolio de Evidencias (Programación para Ciberseguridad)
+# Portafolio de Evidencias (Programación para Ciberseguridad)
 
 _Este fue un portafolio desarrollado para la materia de **"Programación para Ciberseguridad"**._
 
